@@ -1,0 +1,8 @@
+com\georgios\service\DataFrame.class
+com\georgios\User.class
+com\georgios\Invoicing.class
+com\georgios\Main.class
+com\georgios\Item.class
+com\georgios\Invoicing$1.class
+com\georgios\service\CsvReader.class
+com\georgios\service\Contains.class
